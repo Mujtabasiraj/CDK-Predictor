@@ -90,6 +90,6 @@ with st.expander("ℹ️ About this app"):
     - **Model**: Trained using XGBoost on real patient data  
     - **Accuracy**: 98.75%  
     - **Inputs**: 10 most important medical indicators  
-    - **Developer**: MD Inam and Team (AI & Data Science)  
+    - **Developer**: MD Inam and Syed Mujtaba (AI & Data Science)  
     - **Purpose**: Help early detection and awareness of Chronic Kidney Disease (CKD)  
     """)
